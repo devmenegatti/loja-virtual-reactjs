@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Fone de Ouvido Bluetooth Xiaomi Redmi AirDots",
+      "price": 99.00,
+      "image": "https://i.zst.com.br/images/fone-de-ouvido-bluetooth-com-microfone-xiaomi-redmi-airdots-photo844612044-45-18-17.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Caixa de Som Bluetooth JBL",
+      "price": 1490.05,
+      "image": "https://www.jbl.com.br/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwd4e470cf/JBL-LINK-10-Front-BLK_1605x1605px.png"
+    },
+    {
+      "id": 3,
+      "title": "Smartphone Xiaomi Mi 9 64GB Android",
+      "price": 2587.0,
+      "image": "https://i.zst.com.br/images/smartphone-xiaomi-mi-9-64gb-camera-tripla-qualcomm-snapdragon-855-2-chips-android-9-0-pie--photo835602596-45-38-38.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Notebook Lenovo Ideapad S145 Intel Core i7 - 8GB 1TB 15,6” Full HD Placa de Vídeo 2GB",
+      "price": 3014.1,
+      "image": "https://i.zst.com.br/images/notebook-lenovo-ideapad-s145-intel-core-i7-8565u-8-geracao-8gb-de-ram-hd-1-tb-15-6-full-hd-geforce-mx110-windows-10-ideapad-s145-photo857945648-45-32-1a.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Adidas Duramo Lite 2.0Apple iPad Mini 5ª Geração Apple A12 Bionic 64GB Retina 7,9",
+      "price": 2599.0,
+      "image": "https://i.zst.com.br/images/tablet-apple-ipad-mini-5-geracao-apple-a12-bionic-64gb-retina-7-9-ios-12-8-mp-photo925946365-45-3a-3b.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Smartwatch Xiaomi Amazfit Pace",
+      "price": 579.0,
+      "image": "https://i.zst.com.br/images/smartwatch-xiaomi-amazfit-pace-photo727284697-45-1e-2e.jpg"
+    }
+  ]
+}
