@@ -14,7 +14,13 @@ export default function cart(state = [], action) {
         }];
       }
 
-
+    case 'REMOVE_FROM_CART':
+      let index = state.findIndex(p => p.id === action.id);
+      if(index >= 0) {
+        let products = state;
+        products.splice(index, 1);
+        return [...products];
+      }
 
     default:
       return state;
